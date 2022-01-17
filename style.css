@@ -1,0 +1,25 @@
+.instahead{
+    padding-right: 850px;
+   
+   
+}
+.instalogo{
+    padding-left: 60px;
+   
+    color: lightgray;
+}
+h2{
+    color: rgb(88, 88, 88);
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+nav{
+    height: 60px;
+}
+/*.createnew{
+    padding-right: 30px;
+}*/
+/*.dropdown{
+    padding-left: 160px;
+    padding-bottom: 90px;
+}
