@@ -1,25 +1,19 @@
-.instahead{
-    padding-right: 850px;
-   
-   
+
+.instagram i{
+        padding-left: 60px;
+        padding-right: 5px;
+        color: rgb(196, 193, 193);
 }
-.instalogo{
-    padding-left: 60px;
-   
-    color: lightgray;
+.instagram a{
+        font-size: 25px;
+        font-family: 'Lobster', cursive;
+        color: gray !important;
 }
-h2{
-    color: rgb(88, 88, 88);
-    font-family: 'Lobster', cursive;
-    font-size: 30px;
+.d-flex .dropdown{
+        font-size: 25px; 
+        padding-right: 35px; 
 }
-nav{
-    height: 60px;
-}
-/*.createnew{
-    padding-right: 30px;
-}*/
-/*.dropdown{
-    padding-left: 160px;
-    padding-bottom: 90px;
+.dropdown{
+        padding-right: 5px;
+        padding-bottom: 5px;
 }
