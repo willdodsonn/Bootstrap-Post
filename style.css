@@ -9,9 +9,10 @@
         color: gray !important;
 }
 .d-flex .dropdown{
-        font-size: 25px; 
+        font-size: 20px; 
         
 }
+
 .dropdown{
         padding-right: 5px;
         padding-bottom: 5px;
@@ -28,12 +29,19 @@ img{
         margin-bottom: 20px;
         
 }
+button{
+        border: none;
+        background-color: white;
+       font-size: large;
+        
+}
 
 .box{
         background:white;
         width: 550px;
-        
+        height: 570px;
         margin: auto;
+        margin-bottom: 50px;
         
         border: 1px solid rgb(226, 226, 226);
         border-radius: 4px;
@@ -44,6 +52,9 @@ div.header{
         font-family: monospace;
         font-size: 10px;
         
+}
+img{
+        width: 100%;
 }
     
     
@@ -62,5 +73,23 @@ div.header h2{
 }
 section{
         padding-top: 60px;
-        background-color: rgb(226, 226, 226);
+        
+}
+.postbox {
+        padding-left: 20px;
+        
+}
+.dscrp{
+        padding-left: 20px;
+}
+.postfooter{
+        padding-left: 20px;  
+        color: gray;
+}
+div.postfooter i{
+        padding-right: 10px;
+}
+.ellipsis{
+        float: right;
+        margin: 0;
 }
